@@ -1,0 +1,17 @@
+<resources>
+    <!--หน้า1-->
+    <string name="app_name">wittaya_week3</string>
+    <string name="tv_header1">กรุณากรอกข้อมูล</string>
+    <string name="tv_fname">ชื่อ</string>
+    <string name="tv_lname">นามสกุล</string>
+    <string name="tv_old">อายุ</string>
+    <string name="tv_brith">วันเกิด</string>
+    <string name="tv_phone">เบอร์โทร</string>
+    <string name="btn_sender">ส่งข้อมูล</string>
+    <string name="btn_clear">ล้างข้อมูล</string>
+    <string name="btn_close">ปิด</string>
+
+    <!--หน้า2-->
+    <string name="tv_header2">ผลลัพธ์</string>
+    <string name="btn_back">กลับหน้าแรก</string>
+</resources>
